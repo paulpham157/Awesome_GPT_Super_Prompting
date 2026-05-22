@@ -2,7 +2,7 @@
 
 ---
 
-⭐⭐⭐⭐⭐ +3000 STARS | THANK YOU! ⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐ +4000 STARS | THANK YOU! ⭐⭐⭐⭐⭐
 
 ---
 
@@ -41,7 +41,6 @@
 ## 🚨 Jailbreaks
 Explore techniques for bypassing restrictions on GPT models.
 
-- 🌟 | [r/ChatGPTJailbreak/](https://www.reddit.com/r/ChatGPTJailbreak/) - Reddit community focused on ChatGPT jailbreaks.
 - 🌟 | [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - A repository for advanced jailbreak strategies.
 - 🔥 | [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing.
 - 🔥 | [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - Methods to jailbreak various large language models.
